@@ -23,3 +23,4 @@ public class PalinTest {
         assertThat(Palin.getPalindrome(text)).hasSize(0);
     }
 }
+
